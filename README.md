@@ -1,5 +1,4 @@
 # suncolle_Plan : 2017 sunrin Dicon
-선코레!
 1. 개요
 
 가. 게임 제목

@@ -103,4 +103,6 @@
 <br>
 >돈이 많고 역사에 대해서 잘 모르는 댕청한 유저
 
+무기들
+https://docs.google.com/document/d/1aK8_txt20cOfNE3qKvx21B27HUHzJ15OQWdzL-vNtt4/edit?usp=sharing
 Workflow Add need
